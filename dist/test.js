@@ -1,3 +1,7 @@
 "use strict";
-console.log(Math.round(2.13));
+let myarray = ["Osama", "Adel", "Ali"];
+for (let i = 0; i < myarray.length; i++) {
+    console.log(myarray[i].repeat(3));
+}
+console.log("Hello...");
 //# sourceMappingURL=test.js.map
