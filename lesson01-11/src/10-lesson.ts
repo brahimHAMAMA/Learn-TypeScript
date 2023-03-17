@@ -1,4 +1,4 @@
-// 09-Function-Optional
+// 10-Function-Optional
 
 function addAll1(...nums:number[]): number{
     let result =0
